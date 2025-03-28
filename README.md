@@ -12,5 +12,5 @@ Scripts for this project:
 - CILIA_script_sup_fig_2-3 : Script for supplementary figure 2 and 3 (Fig. 2 shows scRNA levels in ciliated cells compared to different cell tupes, Fig.3 show Human Proteome Project (HPP) data for the clusters, showing a distribution of how well known the proteins are).
 
 
-
+Authors: Filippa Bertilsson and Loren Méar
 
